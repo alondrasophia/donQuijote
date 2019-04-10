@@ -1,0 +1,17 @@
+<html>
+	<head>
+	<link rel="stylesheet" type="text/css" href="style.css"> 
+	<title>Don Quijote</title>
+	
+	</head>
+	<body> 
+		<div id= "wrapper">
+			<div id= "navbar">
+				<a href="index.html"><img class="fotoPersonaje"src="http://2.bp.blogspot.com/-FKVM2ImYqF8/TfMxRAyKSAI/AAAAAAAAACY/D5hofiYwFZE/s1600/Don+Quijote+4.jpg"></a>
+				<a href="https://uhs.upr.edu/">UHS</a>
+				<a href="donQuijote.html">Don Quijote</a>
+				<a href="sanchoPanza.html">Sancho Panza</a>
+				
+			
+			
+			</div>

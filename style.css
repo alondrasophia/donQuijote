@@ -1,0 +1,91 @@
+* {
+margin:0;
+padding:0;
+}
+
+#navbar {
+display: flex ;
+flex-direction: row ;
+flex-wrap: wrap ;
+justify-content: space-around ;
+align-items: center ;
+align-content: center ;
+background-color: black;
+height:100px;
+}
+.personaje{
+width: 100%;
+background:a1a2a3;
+
+
+}
+.fotoPersonaje{ 
+width:50%;
+height: 89%;
+position: relative;
+float:left;
+background: linear-gradient(to bottom, #ffffff 0%, #ffccff 100%);
+
+
+}
+.infoPersonaje {
+width:50%;
+position:relative;
+height:89%;
+float:right;
+background: linear-gradient(to bottom, #ffffff 0%, #ffccff 100%);
+border-style:none;
+
+}
+.tituloytexto {
+border-style:double;
+padding-left:5px;
+padding-right:5px;
+border-color:black;
+margin:10px;
+
+}
+
+a {
+color:white;
+font-family: 'Anton', sans-serif;
+font-size:20px;
+text-decoration:none;
+}
+.foto{
+width: 125px;
+}
+.perso{
+width: 90%;
+height: 80%;
+}
+.persona{
+width:100%;
+height:80%;
+}
+.informacion{
+font-size: 20px;
+font-family: 'Roboto', sans-serif;
+}
+.titulo {
+font-size:40px;
+font-family:'Anton', sans-serif;
+}
+
+.gif {
+width:160px;
+height:58%;
+padding-left:55%;
+
+.gif2 {
+width:300px;
+height:60%;
+padding-left:60%;
+
+
+
+
+
+
+
+
